@@ -1,0 +1,48 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+h1,h2{
+    font-size: 2rem;
+    padding: 50px;
+}
+h1{
+    font-size: 4rem;
+}
+#colors{
+    padding:50px;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+.button {
+  width: 200px;
+  height: 200px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
